@@ -2,7 +2,7 @@
   "version": 1,
   "name": "Cyberpunk Neon",
   "description": "Netrunner terminal UI. Narrowed sidebar, sharp geometry, scanlines, neon edge-glow on every surface. The app looks like a Blade Runner HUD.",
-  "author": "Silo-Server",
+  "author": "Prairie-Server",
   "baseTheme": "midnight-cinema",
   "vars": {
     "background": "#07060b",

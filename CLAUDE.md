@@ -4,19 +4,19 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Purpose
 
-Community theme catalog for the Silo media streaming server. This repo is data-only — no build system, no tests, no code. It serves as the remote source that the Silo frontend fetches to list and install community themes.
+Community theme catalog for the Prairie media streaming server. This repo is data-only — no build system, no tests, no code. It serves as the remote source that the Prairie frontend fetches to list and install community themes.
 
 ## Structure
 
-- **`catalog.json`** — Theme index fetched by the Silo client. Contains metadata for each theme (id, name, description, author, preview colors, tags, download URL, version). The top-level `version` field is the catalog schema version; `updatedAt` should be bumped on every change.
-- **`themes/`** — Individual theme files (`<id>.json`). Each defines CSS custom property overrides applied on top of a `baseTheme` in the Silo UI.
+- **`catalog.json`** — Theme index fetched by the Prairie client. Contains metadata for each theme (id, name, description, author, preview colors, tags, download URL, version). The top-level `version` field is the catalog schema version; `updatedAt` should be bumped on every change.
+- **`themes/`** — Individual theme files (`<id>.json`). Each defines CSS custom property overrides applied on top of a `baseTheme` in the Prairie UI.
 
 ## Theme File Format
 
 Each theme JSON has:
 - `version` (schema version, currently `1`)
 - `name`, `description`, `author`
-- `baseTheme` — the built-in Silo theme to extend (e.g. `"midnight-cinema"`)
+- `baseTheme` — the built-in Prairie theme to extend (e.g. `"midnight-cinema"`)
 - `vars` — map of CSS custom property names to hex color values (background, foreground, card, primary, accent, sidebar variants, surface variants, ambient, etc.)
 - `customCss` — optional raw CSS string for overrides beyond color variables
 - `createdAt` — ISO 8601 timestamp

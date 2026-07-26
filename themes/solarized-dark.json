@@ -2,7 +2,7 @@
   "version": 1,
   "name": "Solarized Dark",
   "description": "Ethan Schoonover's precision-engineered Solarized palette on a dark base.",
-  "author": "Silo-Server",
+  "author": "Prairie-Server",
   "baseTheme": "midnight-cinema",
   "vars": {
     "background": "#002b36",

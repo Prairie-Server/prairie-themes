@@ -2,7 +2,7 @@
   "version": 1,
   "name": "Phosphor",
   "description": "Full CRT terminal simulation. Square cards, monospace everything, scanlines, vignette, green-tinted hero images. Your media server is now a mainframe.",
-  "author": "Silo-Server",
+  "author": "Prairie-Server",
   "baseTheme": "midnight-cinema",
   "vars": {
     "background": "#000000",

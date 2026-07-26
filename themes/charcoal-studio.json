@@ -2,7 +2,7 @@
   "version": 1,
   "name": "Charcoal",
   "description": "Apple-inspired blue on dark gray. Clean and modern.",
-  "author": "Silo-Server",
+  "author": "Prairie-Server",
   "baseTheme": "midnight-cinema",
   "vars": {
     "radius": "0.5rem",
