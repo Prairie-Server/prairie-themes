@@ -2,7 +2,7 @@
   "version": 1,
   "name": "Gruvbox",
   "description": "Warm retro with golden accent. Based on the classic Gruvbox Dark palette.",
-  "author": "Silo-Server",
+  "author": "Prairie-Server",
   "baseTheme": "midnight-cinema",
   "vars": {
     "radius": "0.5rem",

@@ -2,7 +2,7 @@
   "version": 1,
   "name": "Verdant Ink",
   "description": "Cool green-black with softer luminous contrast. Lush and serene.",
-  "author": "Silo-Server",
+  "author": "Prairie-Server",
   "baseTheme": "midnight-cinema",
   "vars": {
     "radius": "0.75rem",

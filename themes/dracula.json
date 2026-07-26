@@ -2,7 +2,7 @@
   "version": 1,
   "name": "Dracula",
   "description": "The classic Dracula color scheme. Purple and pink on a dark charcoal base.",
-  "author": "Silo-Server",
+  "author": "Prairie-Server",
   "baseTheme": "midnight-cinema",
   "vars": {
     "background": "#282a36",

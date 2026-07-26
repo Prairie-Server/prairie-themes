@@ -15,7 +15,7 @@ from typing import Any
 ROOT = Path(__file__).resolve().parents[1]
 CATALOG_PATH = ROOT / "catalog.json"
 THEMES_DIR = ROOT / "themes"
-DEFAULT_REPO = "Silo-Server/silo-themes"
+DEFAULT_REPO = "Prairie-Server/prairie-themes"
 DEFAULT_BRANCH = "main"
 
 THEME_ID_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
@@ -69,8 +69,8 @@ def load_json(path: Path) -> dict[str, Any]:
 
 def theme_id_from_path(path: Path) -> str:
     name = path.name
-    if name.endswith(".silo-theme.json"):
-        return name[: -len(".silo-theme.json")]
+    if name.endswith(".prairie-theme.json"):
+        return name[: -len(".prairie-theme.json")]
     return path.stem
 
 

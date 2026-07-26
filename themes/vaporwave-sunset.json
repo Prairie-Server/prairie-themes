@@ -2,7 +2,7 @@
   "version": 1,
   "name": "Vaporwave Sunset",
   "description": "Floating glass sidebar, contained hero card, oversized rounded everything, gradient text headers. The whole app melts into a synthwave dream.",
-  "author": "Silo-Server",
+  "author": "Prairie-Server",
   "baseTheme": "midnight-cinema",
   "vars": {
     "background": "#120a22",

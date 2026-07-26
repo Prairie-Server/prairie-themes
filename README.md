@@ -1,7 +1,7 @@
-# Silo Themes
+# Prairie Themes
 
-Community theme catalog for Silo.
+Community theme catalog for Prairie.
 
 ## License
 
-`silo-themes` is licensed under the MIT License. See [LICENSE](LICENSE).
+`prairie-themes` is licensed under the MIT License. See [LICENSE](LICENSE).

@@ -2,7 +2,7 @@
   "version": 1,
   "name": "Void Space",
   "description": "Cool blue on deep space black. GitHub-inspired dark palette.",
-  "author": "Silo-Server",
+  "author": "Prairie-Server",
   "baseTheme": "midnight-cinema",
   "vars": {
     "radius": "0.5rem",

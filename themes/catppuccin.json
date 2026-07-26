@@ -2,7 +2,7 @@
   "version": 1,
   "name": "Catppuccin",
   "description": "Pastel purple on warm dark blue. Based on the popular Catppuccin Mocha palette.",
-  "author": "Silo-Server",
+  "author": "Prairie-Server",
   "baseTheme": "midnight-cinema",
   "vars": {
     "radius": "0.5rem",

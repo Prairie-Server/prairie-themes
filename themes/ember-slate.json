@@ -2,7 +2,7 @@
   "version": 1,
   "name": "Ember",
   "description": "Smoked charcoal with ember-red accents. Warm and cinematic.",
-  "author": "Silo-Server",
+  "author": "Prairie-Server",
   "baseTheme": "midnight-cinema",
   "vars": {
     "radius": "0.75rem",

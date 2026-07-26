@@ -2,7 +2,7 @@
 
 ## Theme file format
 
-Themes use the `SiloThemeFile` v1 format:
+Themes use the `PrairieThemeFile` v1 format:
 
 ```json
 {
@@ -132,6 +132,6 @@ The following are **allowed**:
 
 ## Submitting a theme
 
-1. Create your theme file in the `themes/` directory as `<id>.json` or `<id>.silo-theme.json`
+1. Create your theme file in the `themes/` directory as `<id>.json` or `<id>.prairie-theme.json`
 2. Open a pull request — catalog automation opens a follow-up PR after merge if `catalog.json` needs changes
 3. Optionally edit `catalog.json` in the same pull request if you want custom tags or preview colors

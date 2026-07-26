@@ -2,7 +2,7 @@
   "version": 1,
   "name": "Solar Flare",
   "description": "Cinematic warmth cranked to eleven. Wider sidebar with serif nav, taller hero, warm shadows on everything, pulsing ember glow. Film noir meets volcanic heat.",
-  "author": "Silo-Server",
+  "author": "Prairie-Server",
   "baseTheme": "midnight-cinema",
   "vars": {
     "background": "#100a04",

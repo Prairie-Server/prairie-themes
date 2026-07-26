@@ -2,7 +2,7 @@
   "version": 1,
   "name": "Nord Aurora",
   "description": "Cool arctic palette inspired by the Nord color system. Muted blues with aurora green accents.",
-  "author": "Silo-Server",
+  "author": "Prairie-Server",
   "baseTheme": "midnight-cinema",
   "vars": {
     "background": "#2e3440",

@@ -2,7 +2,7 @@
   "version": 1,
   "name": "Graphite",
   "description": "Vibrant purple on zinc. Sleek and professional.",
-  "author": "Silo-Server",
+  "author": "Prairie-Server",
   "baseTheme": "midnight-cinema",
   "vars": {
     "radius": "0.5rem",

@@ -2,7 +2,7 @@
   "version": 1,
   "name": "Tokyo Night",
   "description": "Inspired by Tokyo's neon-lit skyline. Deep indigo with electric blue highlights.",
-  "author": "Silo-Server",
+  "author": "Prairie-Server",
   "baseTheme": "midnight-cinema",
   "vars": {
     "background": "#1a1b26",

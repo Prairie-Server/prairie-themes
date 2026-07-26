@@ -2,7 +2,7 @@
   "version": 1,
   "name": "AMOLED Black",
   "description": "True black backgrounds for OLED displays. Maximum contrast, minimum burn-in.",
-  "author": "Silo-Server",
+  "author": "Prairie-Server",
   "baseTheme": "midnight-cinema",
   "vars": {
     "background": "#000000",
