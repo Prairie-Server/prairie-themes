@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-26T00:00:00Z",
+  "updatedAt": "2026-07-27T01:16:31Z",
   "themes": [
     {
       "id": "nord-aurora",
@@ -10,7 +10,7 @@
       "previewAccent": "#88c0d0",
       "previewBg": "#2e3440",
       "tags": ["dark", "cool", "minimal"],
-      "downloadUrl": "https://raw.githubusercontent.com/prairie-server/prairie-themes/main/themes/nord-aurora.json",
+      "downloadUrl": "https://raw.githubusercontent.com/Prairie-Server/prairie-themes/main/themes/nord-aurora.json",
       "version": "1.0.0"
     },
     {
@@ -21,7 +21,7 @@
       "previewAccent": "#bd93f9",
       "previewBg": "#282a36",
       "tags": ["dark", "vibrant", "popular"],
-      "downloadUrl": "https://raw.githubusercontent.com/prairie-server/prairie-themes/main/themes/dracula.json",
+      "downloadUrl": "https://raw.githubusercontent.com/Prairie-Server/prairie-themes/main/themes/dracula.json",
       "version": "1.0.0"
     },
     {
@@ -32,7 +32,7 @@
       "previewAccent": "#268bd2",
       "previewBg": "#002b36",
       "tags": ["dark", "warm", "classic"],
-      "downloadUrl": "https://raw.githubusercontent.com/prairie-server/prairie-themes/main/themes/solarized-dark.json",
+      "downloadUrl": "https://raw.githubusercontent.com/Prairie-Server/prairie-themes/main/themes/solarized-dark.json",
       "version": "1.0.0"
     },
     {
@@ -43,7 +43,7 @@
       "previewAccent": "#ebbcba",
       "previewBg": "#191724",
       "tags": ["dark", "warm", "cozy"],
-      "downloadUrl": "https://raw.githubusercontent.com/prairie-server/prairie-themes/main/themes/rose-pine.json",
+      "downloadUrl": "https://raw.githubusercontent.com/Prairie-Server/prairie-themes/main/themes/rose-pine.json",
       "version": "1.0.0"
     },
     {
@@ -54,7 +54,7 @@
       "previewAccent": "#7aa2f7",
       "previewBg": "#1a1b26",
       "tags": ["dark", "vibrant", "popular"],
-      "downloadUrl": "https://raw.githubusercontent.com/prairie-server/prairie-themes/main/themes/tokyo-night.json",
+      "downloadUrl": "https://raw.githubusercontent.com/Prairie-Server/prairie-themes/main/themes/tokyo-night.json",
       "version": "1.0.0"
     },
     {
@@ -65,7 +65,7 @@
       "previewAccent": "#ffffff",
       "previewBg": "#000000",
       "tags": ["dark", "amoled", "minimal", "oled"],
-      "downloadUrl": "https://raw.githubusercontent.com/prairie-server/prairie-themes/main/themes/amoled-black.json",
+      "downloadUrl": "https://raw.githubusercontent.com/Prairie-Server/prairie-themes/main/themes/amoled-black.json",
       "version": "1.0.0"
     },
     {
@@ -76,7 +76,7 @@
       "previewAccent": "#ff2d6f",
       "previewBg": "#07060b",
       "tags": ["dark", "vibrant", "neon", "cyberpunk"],
-      "downloadUrl": "https://raw.githubusercontent.com/prairie-server/prairie-themes/main/themes/cyberpunk-neon.json",
+      "downloadUrl": "https://raw.githubusercontent.com/Prairie-Server/prairie-themes/main/themes/cyberpunk-neon.json",
       "version": "1.0.0"
     },
     {
@@ -87,7 +87,7 @@
       "previewAccent": "#33ff00",
       "previewBg": "#000000",
       "tags": ["dark", "retro", "monochrome", "terminal"],
-      "downloadUrl": "https://raw.githubusercontent.com/prairie-server/prairie-themes/main/themes/phosphor.json",
+      "downloadUrl": "https://raw.githubusercontent.com/Prairie-Server/prairie-themes/main/themes/phosphor.json",
       "version": "1.0.0"
     },
     {
@@ -98,7 +98,7 @@
       "previewAccent": "#ff71ce",
       "previewBg": "#120a22",
       "tags": ["dark", "vibrant", "retro", "synthwave"],
-      "downloadUrl": "https://raw.githubusercontent.com/prairie-server/prairie-themes/main/themes/vaporwave-sunset.json",
+      "downloadUrl": "https://raw.githubusercontent.com/Prairie-Server/prairie-themes/main/themes/vaporwave-sunset.json",
       "version": "1.0.0"
     },
     {
@@ -109,7 +109,7 @@
       "previewAccent": "#ff9100",
       "previewBg": "#100a04",
       "tags": ["dark", "warm", "vibrant", "amber"],
-      "downloadUrl": "https://raw.githubusercontent.com/prairie-server/prairie-themes/main/themes/solar-flare.json",
+      "downloadUrl": "https://raw.githubusercontent.com/Prairie-Server/prairie-themes/main/themes/solar-flare.json",
       "version": "1.0.0"
     },
     {
@@ -120,7 +120,7 @@
       "previewAccent": "#cba6f7",
       "previewBg": "#1e1e2e",
       "tags": ["dark", "pastel", "popular"],
-      "downloadUrl": "https://raw.githubusercontent.com/prairie-server/prairie-themes/main/themes/catppuccin.json",
+      "downloadUrl": "https://raw.githubusercontent.com/Prairie-Server/prairie-themes/main/themes/catppuccin.json",
       "version": "1.0.0"
     },
     {
@@ -131,7 +131,7 @@
       "previewAccent": "#fabd2f",
       "previewBg": "#282828",
       "tags": ["dark", "warm", "retro", "popular"],
-      "downloadUrl": "https://raw.githubusercontent.com/prairie-server/prairie-themes/main/themes/gruvbox.json",
+      "downloadUrl": "https://raw.githubusercontent.com/Prairie-Server/prairie-themes/main/themes/gruvbox.json",
       "version": "1.0.0"
     },
     {
@@ -142,7 +142,7 @@
       "previewAccent": "#58a6ff",
       "previewBg": "#0d1117",
       "tags": ["dark", "cool", "minimal"],
-      "downloadUrl": "https://raw.githubusercontent.com/prairie-server/prairie-themes/main/themes/void-space.json",
+      "downloadUrl": "https://raw.githubusercontent.com/Prairie-Server/prairie-themes/main/themes/void-space.json",
       "version": "1.0.0"
     },
     {
@@ -153,7 +153,7 @@
       "previewAccent": "#0a84ff",
       "previewBg": "#1c1c1e",
       "tags": ["dark", "minimal", "clean"],
-      "downloadUrl": "https://raw.githubusercontent.com/prairie-server/prairie-themes/main/themes/charcoal-studio.json",
+      "downloadUrl": "https://raw.githubusercontent.com/Prairie-Server/prairie-themes/main/themes/charcoal-studio.json",
       "version": "1.0.0"
     },
     {
@@ -164,7 +164,7 @@
       "previewAccent": "#a855f7",
       "previewBg": "#18181b",
       "tags": ["dark", "vibrant", "professional"],
-      "downloadUrl": "https://raw.githubusercontent.com/prairie-server/prairie-themes/main/themes/graphite-pro.json",
+      "downloadUrl": "https://raw.githubusercontent.com/Prairie-Server/prairie-themes/main/themes/graphite-pro.json",
       "version": "1.0.0"
     },
     {
@@ -175,7 +175,7 @@
       "previewAccent": "#00d4aa",
       "previewBg": "#0f0f0f",
       "tags": ["dark", "cool", "minimal"],
-      "downloadUrl": "https://raw.githubusercontent.com/prairie-server/prairie-themes/main/themes/obsidian-depth.json",
+      "downloadUrl": "https://raw.githubusercontent.com/Prairie-Server/prairie-themes/main/themes/obsidian-depth.json",
       "version": "1.0.0"
     },
     {
@@ -186,7 +186,7 @@
       "previewAccent": "#f07b62",
       "previewBg": "#151213",
       "tags": ["dark", "warm", "cinematic"],
-      "downloadUrl": "https://raw.githubusercontent.com/prairie-server/prairie-themes/main/themes/ember-slate.json",
+      "downloadUrl": "https://raw.githubusercontent.com/Prairie-Server/prairie-themes/main/themes/ember-slate.json",
       "version": "1.0.0"
     },
     {
@@ -197,7 +197,7 @@
       "previewAccent": "#86d4b6",
       "previewBg": "#0d1513",
       "tags": ["dark", "cool", "nature"],
-      "downloadUrl": "https://raw.githubusercontent.com/prairie-server/prairie-themes/main/themes/verdant-ink.json",
+      "downloadUrl": "https://raw.githubusercontent.com/Prairie-Server/prairie-themes/main/themes/verdant-ink.json",
       "version": "1.0.0"
     },
     {
@@ -208,7 +208,7 @@
       "previewAccent": "#1A44EA",
       "previewBg": "hsl(225 66.7% 1.2%)",
       "tags": ["dark"],
-      "downloadUrl": "https://raw.githubusercontent.com/prairie-server/prairie-themes/main/themes/porsche-design-system.prairie-theme.json",
+      "downloadUrl": "https://raw.githubusercontent.com/Prairie-Server/prairie-themes/main/themes/porsche-design-system.prairie-theme.json",
       "version": "1.0.0"
     }
   ]
